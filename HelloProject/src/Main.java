@@ -11,5 +11,14 @@ public class Main {
         System.out.println("uuuuuuuuuuuuuu!");
         System.out.println("iiiiiiiiiiiiiii!");
         System.out.println("wwwwwwwwwwwwwwwwwwww!");
+        System.out.println("aaaa");
+        System.out.println("aaaaa!");
+        System.out.println("ddddd!");
+        System.out.println("ggg!");
+        System.out.println("fff!");
+        System.out.println("ggg!");
+       System.out.println("ggghhhh!");
+        System.out.println("hhhhhh!");
+
     }
 }
